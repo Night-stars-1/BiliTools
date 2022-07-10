@@ -28,4 +28,4 @@ inputs:
     variables:
       TENCENT_SECRET_ID: ${env:TENCENT_SECRET_ID}
       TENCENT_SECRET_KEY: ${env:TENCENT_SECRET_KEY}
-  # For more information: https://github.com/serverless-components/tencent-scf/blob/master/docs/configure.md
+  # For  more information: https://github.com/serverless-components/tencent-scf/blob/master/docs/configure.md
